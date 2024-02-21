@@ -78,7 +78,8 @@ elif run == 9:
                 print(user, "is not a prime number")
                 break
         else:
-            print(user, "is a prime number")
+            print(user, "is a prime number") 
+            # used (https://www.geeksforgeeks.org/python-program-to-check-whether-a-number-is-prime-or-not/) for help with Problem 9
 elif run == 10:
     print("Running Problem 10: ")
     print("Printing all Prime numbers less than 1000:")
